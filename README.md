@@ -1,32 +1,48 @@
-# My Skills
+## Profile
 
-Welcome to my profile! Below is a list of my skills and technologies I'm proficient in:
+👋 Hi there! I'm Muhammad Hamza Ahmad, a passionate software developer with a keen interest in web and software development. I specialize in building robust and scalable applications using various technologies and frameworks.
 
-[![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
-[![C++](https://img.shields.io/badge/-C++-blue?style=flat-square&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
-[![C#](https://img.shields.io/badge/-C%23-blue?style=flat-square&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+🚀 Currently, I'm exploring the intersection of AI and web development, seeking innovative ways to integrate machine learning into web applications to create more personalized and intelligent user experiences.
 
-[![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react&logoColor=white)](https://reactjs.org/)
-[![Redux](https://img.shields.io/badge/-Redux-purple?style=flat-square&logo=redux&logoColor=white)](https://redux.js.org/)
-[![Recoil](https://img.shields.io/badge/-Recoil-lightblue?style=flat-square&logo=recoil&logoColor=white)](https://recoiljs.org/)
-[![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/)
-[![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js&logoColor=white)](https://nextjs.org/)
-[![Express](https://img.shields.io/badge/-Express-lightgrey?style=flat-square&logo=express&logoColor=white)](https://expressjs.com/)
-[![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-[![CSS](https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![HTML](https://img.shields.io/badge/-HTML-orange?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![SQL](https://img.shields.io/badge/-SQL-lightgrey?style=flat-square&logo=sql&logoColor=white)](https://www.w3schools.com/sql/)
-[![NoSQL](https://img.shields.io/badge/-NoSQL-green?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com/nosql-explained)
+💼 I have experience working with startups and large corporations, contributing to both frontend and backend development projects. My goal is to leverage my skills and knowledge to solve complex problems and make a positive impact in the tech industry.
 
-[![.NET](https://img.shields.io/badge/-.NET-black?style=flat-square&logo=.net&logoColor=white)](https://dotnet.microsoft.com/)
-[![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-blue?style=flat-square&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
-[![Material-UI](https://img.shields.io/badge/-Material_UI-blue?style=flat-square&logo=material-ui&logoColor=white)](https://material-ui.com/)
-[![Jupyter](https://img.shields.io/badge/-Jupyter-ff6f00?style=flat-square&logo=jupyter&logoColor=white)](https://jupyter.org/)
-[![Pandas](https://img.shields.io/badge/-Pandas-lightgrey?style=flat-square&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
-[![Numpy](https://img.shields.io/badge/-Numpy-blue?style=flat-square&logo=numpy&logoColor=white)](https://numpy.org/)
-[![Matplotlib](https://img.shields.io/badge/-Matplotlib-lightgrey?style=flat-square&logo=matplotlib&logoColor=white)](https://matplotlib.org/)
-[![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
+🌱 Always eager to learn and grow, I actively seek out new technologies and stay updated with the latest industry trends. I believe in continuous improvement and strive to enhance my skills through hands-on projects and collaboration with fellow developers.
 
-Feel free to reach out if you have any questions or want to collaborate on projects!
+📫 Let's connect! You can find me on [LinkedIn](https://www.linkedin.com/in/YourUsername/). Feel free to reach out if you're interested in collaboration opportunities or just want to chat about tech and coding!
+
+
+
+
+[![Python](https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![C++](https://img.shields.io/badge/-C++-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
+[![C#](https://img.shields.io/badge/-C%23-blue?style=for-the-badge&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+[![React](https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
+[![Redux](https://img.shields.io/badge/-Redux-purple?style=for-the-badge&logo=redux&logoColor=white)](https://redux.js.org/)
+[![Recoil](https://img.shields.io/badge/-Recoil-lightblue?style=for-the-badge&logo=recoil&logoColor=white)](https://recoiljs.org/)
+[![Node.js](https://img.shields.io/badge/-Node.js-green?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![Next.js](https://img.shields.io/badge/-Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
+[![Express](https://img.shields.io/badge/-Express-lightgrey?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
+[![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![CSS](https://img.shields.io/badge/-CSS-blue?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![HTML](https://img.shields.io/badge/-HTML-orange?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![SQL](https://img.shields.io/badge/-SQL-lightgrey?style=for-the-badge&logo=sql&logoColor=white)](https://www.w3schools.com/sql/)
+[![NoSQL](https://img.shields.io/badge/-NoSQL-green?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/nosql-explained)
+
+[![.NET](https://img.shields.io/badge/-.NET-black?style=for-the-badge&logo=.net&logoColor=white)](https://dotnet.microsoft.com/)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-blue?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![Material-UI](https://img.shields.io/badge/-Material_UI-blue?style=for-the-badge&logo=material-ui&logoColor=white)](https://material-ui.com/)
+[![Jupyter](https://img.shields.io/badge/-Jupyter-ff6f00?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
+[![Pandas](https://img.shields.io/badge/-Pandas-lightgrey?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![Numpy](https://img.shields.io/badge/-Numpy-blue?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
+[![Matplotlib](https://img.shields.io/badge/-Matplotlib-lightgrey?style=for-the-badge&logo=matplotlib&logoColor=white)](https://matplotlib.org/)
+[![Flask](https://img.shields.io/badge/-Flask-black?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
+
+## Socials
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+
+
