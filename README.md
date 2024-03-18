@@ -1,23 +1,17 @@
-## Profile
+## 🌟 Profile
 
-👋 Hi there! I'm Muhammad Hamza Ahmad, a passionate software developer with a keen interest in web and software development. I specialize in building robust and scalable applications using various technologies and frameworks.
+👋 Hi, I'm Muhammad Hamza Ahmad, a passionate software developer with a focus on web and software development. I love building scalable applications and exploring AI integration in web technologies.
 
-🚀 Currently, I'm exploring the intersection of AI and web development, seeking innovative ways to integrate machine learning into web applications to create more personalized and intelligent user experiences.
+🚀 Currently delving into AI-driven web development to create personalized user experiences.
 
-💼 I have experience working with startups and large corporations, contributing to both frontend and backend development projects. My goal is to leverage my skills and knowledge to solve complex problems and make a positive impact in the tech industry.
+📫 Let's connect! Find me on [GitHub](https://github.com/YourUsername) and [LinkedIn](https://www.linkedin.com/in/YourUsername/).
 
-🌱 Always eager to learn and grow, I actively seek out new technologies and stay updated with the latest industry trends. I believe in continuous improvement and strive to enhance my skills through hands-on projects and collaboration with fellow developers.
-
-📫 Let's connect! You can find me on [LinkedIn](https://www.linkedin.com/in/YourUsername/). Feel free to reach out if you're interested in collaboration opportunities or just want to chat about tech and coding!
-
-
-
+## 🚀 Skills
 
 [![Python](https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![C++](https://img.shields.io/badge/-C++-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
 [![C#](https://img.shields.io/badge/-C%23-blue?style=for-the-badge&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-
 [![React](https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
 [![Redux](https://img.shields.io/badge/-Redux-purple?style=for-the-badge&logo=redux&logoColor=white)](https://redux.js.org/)
 [![Recoil](https://img.shields.io/badge/-Recoil-lightblue?style=for-the-badge&logo=recoil&logoColor=white)](https://recoiljs.org/)
@@ -40,9 +34,8 @@
 [![Matplotlib](https://img.shields.io/badge/-Matplotlib-lightgrey?style=for-the-badge&logo=matplotlib&logoColor=white)](https://matplotlib.org/)
 [![Flask](https://img.shields.io/badge/-Flask-black?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
 
-## Socials
+## 🌐 Socials
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
-
-
