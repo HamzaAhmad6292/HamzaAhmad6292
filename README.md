@@ -1,12 +1,12 @@
 ## 🌟 Profile
 
-👋 Hi, I'm Muhammad Hamza Ahmad, an ML Engineer specializing in Generative AI and full stack development. I love building scalable applications and exploring AI integration in web technologies.
+👋 Hi, I'm Muhammad Hamza Ahmad, an AI Engineer specializing in Generative AI and full stack development. I love building scalable applications and exploring AI integration in web technologies.
 
 🚀 Currently working on projects that integrate large language models and generative AI into scalable web applications, creating personalized user experiences.
 
 🤖 Experienced in developing and deploying machine learning models, with a focus on natural language processing and computer vision.
 
-📫 Let's connect! Find me on [GitHub](https://github.com/YourUsername) and [LinkedIn](https://www.linkedin.com/in/YourUsername/).
+📫 Let's connect! Find me on   [LinkedIn](https://www.linkedin.com/in/muhammad-hamza-ahmad-49b24124b/).
 
 ## 🚀 Skills
 
@@ -48,6 +48,5 @@
 
 ## 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-hamza-ahmad-49b24124b/)
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/M_H_A_01)
