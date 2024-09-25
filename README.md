@@ -26,7 +26,7 @@ Greetings! I'm Muhammad Hamza Ahmad, an innovative AI Engineer with a passion fo
 - 🌐 Committed to open-source contributions and collaborative innovation in the AI and web development ecosystem.
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HamzaAhmad6292&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
 </div>
 
 ## 🛠️ Technical Proficiencies
