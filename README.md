@@ -1,95 +1,137 @@
-# Muhammad Hamza Ahmad
-
 <div align="center">
-  
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=AI+Engineer;Full+Stack+Developer;Generative+AI+Enthusiast)](https://git.io/typing-svg)
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-hamza-ahmad-49b24124b/)
-  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/M_H_A_01)
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Welcome+to+Muhammad+Hamza+Ahmad's+Profile!" alt="Typing SVG" />
 </div>
+
+<h2 align="center">AI Engineer | Full Stack Developer | Generative AI Enthusiast</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/muhammad-hamza-ahmad-49b24124b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/M_H_A_01" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
 ## 👨‍💻 About Me
 
-Greetings! I'm Muhammad Hamza Ahmad, an AI Engineer with a passion for Generative AI and full stack development. My expertise lies in building scalable applications and exploring innovative ways to integrate AI into web technologies.
+Greetings! I'm Muhammad Hamza Ahmad, an innovative AI Engineer with a passion for pushing the boundaries of Generative AI and full stack development. My expertise lies in architecting scalable applications and pioneering the integration of cutting-edge AI technologies into web solutions.
 
-- 🔭 I'm currently working on projects that seamlessly integrate large language models and generative AI into scalable web applications, creating personalized user experiences.
-- 🌱 I'm constantly learning and staying up-to-date with the latest advancements in AI and web technologies.
-- 💡 I have extensive experience in developing and deploying machine learning models, with a particular focus on natural language processing and computer vision.
-- 🤝 I'm always open to collaborations and exciting projects in the AI and web development space.
+- 🚀 Currently spearheading projects that seamlessly merge large language models and generative AI with scalable web applications, crafting next-generation user experiences.
+- 🧠 Continuously expanding my knowledge base in AI and web technologies, always staying one step ahead of industry trends.
+- 💡 Proven track record in developing and deploying sophisticated machine learning models, with a particular focus on natural language processing and computer vision.
+- 🌐 Committed to open-source contributions and collaborative innovation in the AI and web development ecosystem.
 
 <div align="center">
-  
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=dark)](https://git.io/streak-stats)
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
 </div>
 
-## 🚀 Skills
+## 🛠️ Technical Proficiencies
 
-<details>
-<summary>Click to expand</summary>
+<table>
+  <tr>
+    <td valign="top" width="33%">
+      <h3 align="center">Programming Languages</h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+        <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+      </div>
+    </td>
+    <td valign="top" width="33%">
+      <h3 align="center">Web Development</h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+        <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+        <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+        <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+      </div>
+    </td>
+    <td valign="top" width="33%">
+      <h3 align="center">AI & Machine Learning</h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+        <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" />
+        <img src="https://img.shields.io/badge/Scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
+        <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="33%">
+      <h3 align="center">Databases & Cloud</h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+        <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+      </div>
+    </td>
+    <td valign="top" width="33%">
+      <h3 align="center">Tools & Platforms</h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+        <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+        <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+      </div>
+    </td>
+    <td valign="top" width="33%">
+      <h3 align="center">Data Analysis</h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+        <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+        <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" />
+        <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn" />
+      </div>
+    </td>
+  </tr>
+</table>
 
-### Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-
-### Web Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
-
-### AI & Machine Learning
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-</details>
-
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </div>
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  
-  [![trophy](https://github-profile-trophy.vercel.app/?username=YourGitHubUsername&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-  
+  <img src="https://github-profile-trophy.vercel.app/?username=YourGitHubUsername&theme=nord&column=7&no-frame=true&no-bg=true" />
 </div>
 
-## 📫 Let's Connect
+## 🌟 Featured Projects
 
-I'm always excited to connect with fellow developers and AI enthusiasts. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/muhammad-hamza-ahmad-49b24124b/) or [Twitter](https://x.com/M_H_A_01). Let's collaborate and build something amazing together!
+<div align="center">
+  <a href="https://github.com/YourGitHubUsername/project1">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YourGitHubUsername&repo=project1&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/YourGitHubUsername/project2">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YourGitHubUsername&repo=project2&theme=tokyonight&hide_border=true" />
+  </a>
+</div>
+
+## 📫 Let's Connect and Collaborate!
+
+I'm always excited to connect with fellow developers, AI enthusiasts, and potential collaborators. Whether you have a project idea, want to discuss the latest in AI and web technologies, or just want to say hello, feel free to reach out!
+
+- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/muhammad-hamza-ahmad-49b24124b/)
+- 🐦 Follow me on [Twitter](https://twitter.com/M_H_A_01)
+- 📧 Drop me an [email](mailto:your.email@example.com)
+
+Let's innovate and build groundbreaking solutions together!
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YourGitHubUsername&color=blueviolet" alt="Profile views">
+  <img src="https://komarev.com/ghpvc/?username=YourGitHubUsername&color=blueviolet&style=for-the-badge" alt="Profile views" />
 </div>
