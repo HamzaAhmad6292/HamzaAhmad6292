@@ -99,26 +99,16 @@ Greetings! I'm Muhammad Hamza Ahmad, an innovative AI Engineer with a passion fo
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=HamzaAhmad6292&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
 </div>
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YourGitHubUsername&theme=nord&column=7&no-frame=true&no-bg=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=HamzaAhmad6292&theme=nord&column=7&no-frame=true&no-bg=true" />
 </div>
 
-## 🌟 Featured Projects
 
-<div align="center">
-  <a href="https://github.com/YourGitHubUsername/project1">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YourGitHubUsername&repo=project1&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/YourGitHubUsername/project2">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YourGitHubUsername&repo=project2&theme=tokyonight&hide_border=true" />
-  </a>
-</div>
 
 ## 📫 Let's Connect and Collaborate!
 
