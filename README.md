@@ -103,7 +103,7 @@ I'm always excited to connect with fellow developers, AI enthusiasts, and potent
 
 - 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/muhammad-hamza-ahmad-49b24124b/)
 - 🐦 Follow me on [Twitter](https://twitter.com/M_H_A_01)
-- 📧 Drop me an [email](mailto:your.email@example.com)
+- 📧 Drop me an [email](mailto:hamzaahmad6292@gmail.com)
 
 Let's innovate and build groundbreaking solutions together!
 
