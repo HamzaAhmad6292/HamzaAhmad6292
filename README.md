@@ -25,9 +25,7 @@ Greetings! I'm Muhammad Hamza Ahmad, an innovative AI Engineer with a passion fo
 - 💡 Proven track record in developing and deploying sophisticated machine learning models, with a particular focus on natural language processing and computer vision.
 - 🌐 Committed to open-source contributions and collaborative innovation in the AI and web development ecosystem.
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HamzaAhmad6292&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
-</div>
+
 
 ## 🛠️ Technical Proficiencies
 
@@ -96,17 +94,6 @@ Greetings! I'm Muhammad Hamza Ahmad, an innovative AI Engineer with a passion fo
   </tr>
 </table>
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=HamzaAhmad6292&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HamzaAhmad6292&theme=nord&column=7&no-frame=true&no-bg=true" />
-</div>
 
 
 
